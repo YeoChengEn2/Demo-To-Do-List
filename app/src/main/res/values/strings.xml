@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo To Do List</string>
+    <string name="tv_title">Medium Text</string>
+    <string name="tv_date_day">TextView</string>
+</resources>
